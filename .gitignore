@@ -1,34 +1,34 @@
-*.o
-*.a
-*.dSYM
-*.csv
-*.out
-*.png
-*.so
-*.exe
-*.dll
-*.lib
-*.dylib
-*.pyc
-mnist/
-data/
-caffe/
-grasp/
-images/
-opencv/
-convnet/
-decaf/
-submission/
-cfg/
-temp/
-build/darknet/*
-build_*/
-ninja/
-ninja.zip
-vcpkg_installed/
-!build/darknet/YoloWrapper.cs
-.fuse*
-*.weights
+# *.o
+# *.a
+# *.dSYM
+# *.csv
+# *.out
+# *.png
+# *.so
+# *.exe
+# *.dll
+# *.lib
+# *.dylib
+# *.pyc
+# mnist/
+# data/
+# caffe/
+# grasp/
+# images/
+# opencv/
+# convnet/
+# decaf/
+# submission/
+# cfg/
+# temp/
+# build/darknet/*
+# build_*/
+# ninja/
+# ninja.zip
+# vcpkg_installed/
+# !build/darknet/YoloWrapper.cs
+# .fuse*
+# *.weights
 build/*.cmake
 build/*.ninja
 build/*.txt
